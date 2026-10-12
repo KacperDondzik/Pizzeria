@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        double cenaBazowa = 35.0; // Domyślnie średnia
+        double cenaBazowa = 35.0;
         String nazwaRozmiaru = "Średnia";
 
         if (rbMala.isChecked()) {
